@@ -11,7 +11,7 @@ Copy the aliases from gitaliases.txt to your ~/.gitconfig and `[alias]`. They wi
 These are aliases that i use everyday, a few short versions of common commands and a few alternative logging aliases (Try them, not the usual "git log"!)
 To sum up:
 
-  st        = status
+	st        = status
 	co        = checkout
 	br        = branch
 	ad = add -A .        This add every new,remove,modified file to staging
@@ -23,4 +23,4 @@ To sum up:
 	l50, lg50
 	    
 	// Waaaay better git log, 80 cols wide, with and without branch graph, with colors!
-  l80, lg80
+  	l80, lg80
